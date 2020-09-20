@@ -1,1 +1,1 @@
-alert('lLl)
+<div style="width:100%; height:100vh; background:#000; color :chartreuse; padding-top:200px; text-align:center; font-family: arial; font-size:30px;">Köfte adil ustada yenir (tavada güzel).<br><br><br><img src="https://lh5.googleusercontent.com/8lcbYBv9rBKEtns_xxLlvpuqcZ3WciX_KUmf77rmzMKIRMxbBRLoEmZ6ERGW2oKVRQpR7E8Mfg"/></div>
